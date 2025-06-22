@@ -45,8 +45,16 @@ Integrates with external tools (Sheets, Email)
 
 https://github.com/user-attachments/assets/a7ff3220-eced-4da0-9d25-248b548f6e42
 
+
+
 **Email confirmation**
 ![file_2025-06-22_11 04 13](https://github.com/user-attachments/assets/16f773bf-4840-4ec9-b3a1-78a3f8e223d1)
+
+
+
+**Storing patient data in google sheet**
+
+![Screenshot 2025-06-22 170650](https://github.com/user-attachments/assets/b10eddee-8b62-4f77-8958-c49ddb496008)
 
 ---
 
