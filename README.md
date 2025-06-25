@@ -1,4 +1,4 @@
-# 🏥 Hospital Appointment Bot
+# 🏥 Grenich Hospital Chatbot
 
 A **Telegram-based AI assistant** for hospitals that provides information, collects patient details, stores them in **Google Sheets**, and sends confirmation via **email** — all from an interactive and user-friendly chatbot interface.
 ---
